@@ -1,0 +1,22 @@
+body {
+    /* background-image: url("images1.jpg")	; */
+    background-color:#cbf0f3 ;
+ }
+ h1{
+     color: rgb(67, 112, 85)
+ }
+ h2{
+    color: rgb(67, 112, 85)
+ }
+ hr{
+     background-color:#cbf0f3 ;
+     border-style: none;
+     border-top-style: dotted;
+     height: 0px;
+     border-color: rgb(163, 160, 160);
+     border-width: 4px;
+     width: 8%;
+ }
+ .checked{
+     color: "red"
+ }
